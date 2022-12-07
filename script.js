@@ -1,3 +1,5 @@
+// DOM MANIPULATION WITH FORMS
+
 let row=1;
 let submit=document.getElementById("submit");
 submit.addEventListener("click",displayElements);
